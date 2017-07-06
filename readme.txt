@@ -1,0 +1,1 @@
+https://tproger.ru/translations/react-basic-weather-app/
